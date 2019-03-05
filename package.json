@@ -1,0 +1,28 @@
+{
+  "name": "mdconf-loader",
+  "version": "1.0.0",
+  "description": "mdconf (Markdown Configuration) loader for Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristiandupont/mdconf-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "mdconf",
+    "markdown"
+  ],
+  "author": "Kristian Dupont",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kristiandupont/mdconf-loader/issues"
+  },
+  "homepage": "https://github.com/kristiandupont/mdconf-loader#readme",
+  "dependencies": {
+    "loader-utils": "^1.2.3"
+  }
+}
