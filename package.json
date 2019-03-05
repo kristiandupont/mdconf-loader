@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/kristiandupont/mdconf-loader#readme",
   "dependencies": {
-    "mdconf": "0.0.2"
+    "mdconf": "git+https://github.com/kristiandupont/mdconf.git"
   }
 }
