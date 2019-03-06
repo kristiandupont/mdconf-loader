@@ -1,6 +1,6 @@
 {
   "name": "mdconf-loader",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "mdconf (Markdown Configuration) loader for Webpack",
   "main": "index.js",
   "scripts": {
